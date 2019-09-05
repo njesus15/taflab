@@ -2,8 +2,7 @@
 ### Proof of concept: High-bandwidth LIDAR underwater wireless communication 
 The goal of the project was to provide a demo demonstrating how LIDAR communication may be achieved
 via a swarm of underwater wireless UAVs. We showed this at a very fundamental level by integrating
-Arduino microcontrollers into out-of-shelf toy submarines and implemented a controller for position  
-and stability control to reflect a laser beam source from the bottom of the water basin, and onto a target on the surface of
+Arduino microcontrollers into out-of-shelf toy submarines and implemented a controller for position and stability control to reflect a laser beam source from the bottom of the water basin, and onto a target on the surface of
 the water. 
 
 For simplicity, the laser position was fixed. The pipeline flow consisted of using a simple webcam for live video
